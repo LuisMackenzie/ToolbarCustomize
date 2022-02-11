@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/b_backup"
+        android:icon="@drawable/ic_backup"
+        android:title="backup"
+        app:showAsAction="always" />
+
+    <item
+        android:id="@+id/b_share2"
+        android:icon="@drawable/ic_share"
+        android:title="@string/share"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/b_settings2"
+        android:icon="@drawable/ic_tag_faces"
+        android:title="@string/settings"
+        app:showAsAction="always"  />
+    <item
+        android:id="@+id/b_exit2"
+        android:icon="@drawable/ic_exit"
+        android:title="@string/exit"
+        app:showAsAction="never" />
+
+</menu>

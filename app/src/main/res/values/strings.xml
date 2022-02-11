@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Toolbar Customize</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="share">Share</string>
+    <string name="exit">Exit</string>
+    <string name="settings">Settings</string>
+</resources>
